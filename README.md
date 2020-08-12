@@ -10,20 +10,27 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Content
 
-* [General](#general)
-* [Samples and Projects](#samples-and-projects)
-* [Tutorials](#tutorials)
-* [Libraries & Extensions](#libraries--extensions)
-* [Videos](#videos)
-* [Articles](#articles)
-* [Podcasts](#podcasts)
-* [Presentations slides](#presentations-slides)
-* [Tooling](#tooling)
-* [Books](#books)
-* [E-Books](#e-books)
-* [Courses](#courses)
-* [Community](#community)
-* [Other Languages](#other-languages)
+- [Awesome-Avalonia ![PRs Welcome](http://makeapullrequest.com)](#awesome-avalonia-img-srchttpsimgshieldsiobadgeprs-welcome-brightgreensvgstyleflat-square-altprs-welcome)
+  - [Content](#content)
+  - [General](#general)
+  - [Samples and Projects](#samples-and-projects)
+  - [Tutorials](#tutorials)
+  - [Libraries & Extensions](#libraries--extensions)
+    - [Generic](#generic)
+    - [MVVM & MVP & MVU](#mvvm--mvp--mvu)
+    - [Chart & Plot](#chart--plot)
+    - [Controls](#controls)
+    - [Web Browsers](#web-browsers)
+  - [Videos](#videos)
+  - [Articles](#articles)
+  - [Podcasts](#podcasts)
+  - [Presentations slides](#presentations-slides)
+  - [Tooling](#tooling)
+  - [Books](#books)
+  - [E-Books](#e-books)
+  - [Courses](#courses)
+  - [Community](#community)
+  - [Other Languages](#other-languages)
 
 
 ## General
@@ -99,6 +106,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaGif](https://github.com/jmacato/AvaloniaGif) - Purely C# GIF decoder and animation library.
 - [Movere](https://github.com/jp2masa/Movere) - Movere is an implementation of managed dialogs for Avalonia.
 - [ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) - Exteded Controls for Avalonia UI.
+- [Aura.UI](https://github.com/PieroCastillo/Aura.UI) - ClosableTabItem and another controls in single one library for AvaloniaUI.
 
 ### Web Browsers
 - [CefGlue](https://gitlab.com/joaompneves/cefglue) - .NET/Mono binding for The Chromium Embedded Framework (CEF).
